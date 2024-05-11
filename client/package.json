@@ -1,5 +1,5 @@
 {
-  "homepage": "https://rahul5403.github.io/MERN-stack-blood-bank-management-system",
+  "homepage": "https://localhost:3000",
   "name": "client",
   "version": "0.1.0",
   "private": true,
